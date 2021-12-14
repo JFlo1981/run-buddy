@@ -65,7 +65,7 @@ footer div {
 }
 
 footer a {
-    color: #024376;
+    color: #024e76;
 }
 
 section {
@@ -84,11 +84,11 @@ section {
 
 /* Hero-form Style Start */
 .hero-form {
+    border: 3px solid #024e76;
     background-color: #fce138;
     padding: 20px;
     width: 500px;
     color: #024e76;
-    border: solid 3px #024376;
     position: absolute;
     bottom: 120px;
     right: 140px;
